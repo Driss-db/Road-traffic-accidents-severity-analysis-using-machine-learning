@@ -1,9 +1,6 @@
-# 21059970 Debbagh Driss Mscproject
+## Road-Traffic-Accident-Severity-Analysis-using-Machine-Learning
 
-# COURSEWORK ASSESSMENT: MSc. project
-
-# Student ID: 21059970
-
-# Name: Driss Debbagh
-
-# MSc. Data Science
+### • Imported and cleaned data from various sources
+### • Conducted feature selection and preprocessing
+### • Developed and evaluated machine learning models using different classification algorithms
+### • Analyzed the results and wrote a report on the findings
